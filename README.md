@@ -1,1 +1,1 @@
-# collect_ec2_info
+# Instance Type Optimize Bot
